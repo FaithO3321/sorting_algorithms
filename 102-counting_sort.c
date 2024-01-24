@@ -19,7 +19,7 @@ int get_max(int *array, int size)
 }
 
 /**
- * counting_sort – counting to sort an array of integers in ascending order
+ * counting_sort - using counting algorithm to sort intergers
  * @array: An array of integers
  * @size: size of the array
  */
