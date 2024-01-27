@@ -1,5 +1,6 @@
 #ifndef DECK_H
 #define DECK_H
+#include <stddef.h>
 
 /**
  * enum kind_e - card kind
